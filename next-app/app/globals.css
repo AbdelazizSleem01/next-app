@@ -232,7 +232,7 @@ a {
 }
 
 .loader:before {
-  content: "NextJS...";
+  content: "NextJS load...";
 }
 
 @keyframes l17 {
