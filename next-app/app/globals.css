@@ -218,7 +218,7 @@ a {
 
 /* HTML: <div class="loader"></div> */
 .loader {
-  --w: 10ch;
+  --w: 15ch;
   font-weight: bold;
   font-family: monospace;
   font-size: 30px;
